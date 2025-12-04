@@ -33,9 +33,9 @@ export default function BlogPage() {
 
         <AnimatedSection delay={0.2}>
           {posts.length === 0 ? (
-            <div className="mt-12 rounded-lg border border-dashed border-neutral-300 p-8 text-center dark:border-neutral-700">
-              <p className="text-neutral-500 dark:text-neutral-400">
-                No posts yet. Check back soon!
+            <div className="mt-16 text-center">
+              <p className="text-neutral-400 dark:text-neutral-500">
+                Nothing here yet.
               </p>
             </div>
           ) : (
