@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hi, I'm Jonathan Velázquez
 
-## Getting Started
+**iOS Software Engineer** with 9+ years of experience building high-quality mobile applications.
 
-First, run the development server:
+Currently at **ŌURA**, previously at **TikTok**, **Microsoft**, **Nubank**, and **Cornershop by Uber**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## About Me
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I specialize in iOS development with a focus on app architecture, performance optimization, and reliability engineering. I've worked on apps used by hundreds of millions of users and have experience scaling products across multiple countries.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Mobile:** Swift, Objective-C, iOS, Flutter
+**Backend:** TypeScript, Python, Ruby, Node.js
+**Tools:** Xcode, Git, CI/CD, A/B Testing
 
-## Learn More
+## Experience Highlights
 
-To learn more about Next.js, take a look at the following resources:
+- **ŌURA** - Building fitness and workout features for the Ōura Ring app
+- **TikTok** - Developed crash-handling frameworks and reliability tools for app stability
+- **Microsoft** - Enhanced Outlook iOS search experience, led Query Formulation squad
+- **Nubank** - Built cross-platform payment flows with Flutter
+- **Cornershop** - Led iOS app development, drove internationalization to 6+ countries
+- **Linio** - Achieved App Store "Best of 2017" and E-commerce Award Mexico 2018
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Connect
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonymoney)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/jonymoney)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jony.money)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*This repo contains the source code for my personal website, built with Next.js, TypeScript, and Tailwind CSS.*
